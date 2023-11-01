@@ -2395,6 +2395,14 @@ select:visited {
 .bi-about-section {
   padding: 140px 0px 160px;
 }
+.about-img1 {
+  width: 467px;
+  height: 562px;
+}
+.about-img2  {
+  width: 421px;
+  height: 483px;
+}
 
 .bi-about-img-area1 {
   max-width: 301px;
@@ -3056,6 +3064,10 @@ select:visited {
 .bi-faq-content-area .accordion-button {
   background-color: transparent;
 }
+.bi-faq-feed-img {
+  width: 495px;
+  height: 758.31px;
+}
 .bi-faq-content-area .accordion-item {
   border: none;
   position: relative;
@@ -3689,6 +3701,10 @@ select:visited {
   display: inline-block;
   text-transform: uppercase;
 }
+.service-img {
+  width: 522px;
+  height: 595px;
+}
 .bi-service-list-item a img {
   left: 0;
   top: -18px;
@@ -3699,6 +3715,10 @@ select:visited {
   border-radius: 100%;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
+}
+.bi-service-details-img {
+  width: 748.39px;
+  height: 356.38px;
 }
 .bi-service-list-item a:hover {
   color: var(--base-color);
@@ -20363,6 +20383,10 @@ CSS INDEX
   position: absolute;
   background-repeat: no-repeat;
   background-image: url(../img/logo/check.png);
+}
+.bi-career-details {
+  width: 748.39px;
+  height: 315.16px;
 }
 .bi-career-details-text-area .salary-limit {
   color: #000;
