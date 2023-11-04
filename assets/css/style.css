@@ -6732,8 +6732,8 @@ select:visited {
   padding: 0px 40px;
 }
 .bi-service-scroll-item .service-text h3 {
-  color: #fff;
-  font-size: 34px;
+  color: #080000;
+  font-size: 45px;
   font-weight: 600;
 }
 .bi-service-scroll-item .service-text h3:hover {
